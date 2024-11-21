@@ -1,4 +1,4 @@
-# Task do Projeto
+# Tasks do Projeto
   - ESCOLHER O TEMA DO PROJETO (Acessibilidade e
 Responsabilidade Social.)
   - RELATÓRIO - Título e Informações da
