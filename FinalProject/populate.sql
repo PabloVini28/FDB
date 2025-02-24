@@ -13,16 +13,16 @@ INSERT INTO usuario (email, senha, pontuacao, role) VALUES
 
 -- Inserindo endereços
 INSERT INTO endereco (cep, rua, bairro, cidade, numero) VALUES
-('12345-678', 'Rua A', 'Centro', 'Cidade X', 10),
-('23456-789', 'Rua B', 'Bairro Y', 'Cidade X', 20),
-('34567-890', 'Rua C', 'Bairro Z', 'Cidade X', 30),
-('45678-901', 'Rua D', 'Bairro W', 'Cidade X', 40),
-('56789-012', 'Rua E', 'Bairro V', 'Cidade X', 50),
-('67890-123', 'Rua F', 'Bairro U', 'Cidade X', 60),
-('78901-234', 'Rua G', 'Bairro T', 'Cidade X', 70),
-('89012-345', 'Rua H', 'Bairro S', 'Cidade X', 80),
-('90123-456', 'Rua I', 'Bairro R', 'Cidade X', 90),
-('01234-567', 'Rua J', 'Bairro Q', 'Cidade X', 100);
+('12345-678', 'Rua A', 'Centro', 'Cidade X', '10'),
+('23456-789', 'Rua B', 'Bairro Y', 'Cidade X', '20'),
+('34567-890', 'Rua C', 'Bairro Z', 'Cidade X', '30'),
+('45678-901', 'Rua D', 'Bairro W', 'Cidade X', '40'),
+('56789-012', 'Rua E', 'Bairro V', 'Cidade X', '50'),
+('67890-123', 'Rua F', 'Bairro U', 'Cidade X', '60'),
+('78901-234', 'Rua G', 'Bairro T', 'Cidade X', '70'),
+('89012-345', 'Rua H', 'Bairro S', 'Cidade X', '80'),
+('90123-456', 'Rua I', 'Bairro R', 'Cidade X', '90'),
+('01234-567', 'Rua J', 'Bairro Q', 'Cidade X', '100');
 
 -- Inserindo localizações
 INSERT INTO localizacao (status_verificado, endereco_id) VALUES

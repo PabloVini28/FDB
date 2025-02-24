@@ -14,7 +14,7 @@ CREATE TABLE endereco (
     rua VARCHAR(255) NOT NULL,
     bairro VARCHAR(255) NOT NULL,
     cidade VARCHAR(255) NOT NULL,
-    numero INT NOT NULL
+    numero VARCHAR(255) NOT NULL
 );
 
 -- Tabela Localizacao 
