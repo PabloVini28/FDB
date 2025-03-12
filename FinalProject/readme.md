@@ -5,7 +5,7 @@
 
 ## 🚀 Features
   - 🔎 Manage addresses – CRUD operations for addresses.
-  - 👤 User management – CRUD operations for user registration and authentication.
+  - 👤 User management – CRUD operations for user registration.
   - 📍 Manage locations – Add, update, and delete places with accessibility features.
 ## 🛠️ Technologies Used
   - Back: Python and Jupyter Noteebok
